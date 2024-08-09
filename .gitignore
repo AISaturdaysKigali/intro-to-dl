@@ -13,6 +13,9 @@ data
 EMNIST
 images
 
+# W5
+afhq*
+
 # W6
 imagenette2-320
 
