@@ -25,3 +25,8 @@ mnist
 nltk_data
 omw-1.4.zip
 wordnet.zip
+
+# W8
+.data
+.vector_cache
+*.bin
